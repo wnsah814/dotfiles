@@ -1,0 +1,12 @@
+# script-generated backups
+*.bak
+*.old
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+*.swp
